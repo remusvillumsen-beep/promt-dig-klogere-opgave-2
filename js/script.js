@@ -102,10 +102,12 @@ const infoboxElement = document.getElementById("infobox");
 //       (Når du er færdig, må du gerne flytte { op i slutningen
 //       af linjen med funktionshovedet.)
 
-{
+function showInfoBox (text) {
   infoboxElement.innerHTML = text;
 
   // ✏️ B. Skriv din kode her ↓
+
+ infoboxElement.classList.add ("show")
 
 
 }
