@@ -24,7 +24,7 @@
 
 // ✏️ B. Skriv use strict her ↓
 
-
+"use strict;"
 
 // ------------------------------------------------------------------
 // STEP 1: Data om dyrene
